@@ -1,0 +1,17 @@
+C:\Users\knemt\Desktop\Каширин А\PR13\obj\Debug\PR13.csproj.AssemblyReference.cache
+C:\Users\knemt\Desktop\Каширин А\PR13\obj\Debug\MainWindow.g.cs
+C:\Users\knemt\Desktop\Каширин А\PR13\obj\Debug\WindowAddStudent.g.cs
+C:\Users\knemt\Desktop\Каширин А\PR13\obj\Debug\App.g.cs
+C:\Users\knemt\Desktop\Каширин А\PR13\obj\Debug\PR13_MarkupCompile.cache
+C:\Users\knemt\Desktop\Каширин А\PR13\obj\Debug\PR13_MarkupCompile.lref
+C:\Users\knemt\Desktop\Каширин А\PR13\bin\Debug\PR13.exe.config
+C:\Users\knemt\Desktop\Каширин А\PR13\bin\Debug\PR13.exe
+C:\Users\knemt\Desktop\Каширин А\PR13\bin\Debug\PR13.pdb
+C:\Users\knemt\Desktop\Каширин А\PR13\obj\Debug\MainWindow.baml
+C:\Users\knemt\Desktop\Каширин А\PR13\obj\Debug\WindowAddStudent.baml
+C:\Users\knemt\Desktop\Каширин А\PR13\obj\Debug\PR13.g.resources
+C:\Users\knemt\Desktop\Каширин А\PR13\obj\Debug\PR13.Properties.Resources.resources
+C:\Users\knemt\Desktop\Каширин А\PR13\obj\Debug\PR13.csproj.GenerateResource.cache
+C:\Users\knemt\Desktop\Каширин А\PR13\obj\Debug\PR13.csproj.CoreCompileInputs.cache
+C:\Users\knemt\Desktop\Каширин А\PR13\obj\Debug\PR13.exe
+C:\Users\knemt\Desktop\Каширин А\PR13\obj\Debug\PR13.pdb
